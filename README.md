@@ -1,5 +1,4 @@
-# No-show Appointments
-## by Sony Okpara 
+# No-show Appointments (Data Exploration)
 
 
 ## Dataset 
